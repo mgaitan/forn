@@ -4,9 +4,9 @@ Contratapas de Juan Forn en Página/12
 Un pequeño y rústico codigo Python (probado con Python 3) que obtiene los artículos de Juan Forn publicados en la contratapa del diario Pagina/12 de Argentina (http://www.pagina12.com.ar) 
 
 - `Volumen 1 <https://github.com/mgaitan/forn/blob/master/forn_contratapas.epub?raw=true
->`_: entre julio de 2002 y enero de 2015.
+>`_ : entre julio de 2002 y enero de 2015.
 - `Volumen 2 <https://github.com/mgaitan/forn/blob/master/forn_contratapas_2.epub?raw=true
->`_: entre noviembre de 2016 y abril de 2021
+>`_ : entre noviembre de 2016 y abril de 2021
 
 
 El código se encuentra en formato Jupyter notebook (arhivos `.ipynb`) 
